@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gKRKWd5iMUICSKkrqYkRfN9RIeRBsMS7EoaZDmO5XjYs6LSonxuB3Ffqlso/35rbjELszGJqLf/r81Uuga0BVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\OneDrive\\Área de Trabalho\\Estudos e comandos\\CursoBalta\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

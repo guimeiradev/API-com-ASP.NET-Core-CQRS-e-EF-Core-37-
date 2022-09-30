@@ -1,0 +1,12 @@
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.deps.json
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.dll
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\bin\Debug\net6.0\Todo.Domain.pdb
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.AssemblyReference.cache
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.dll
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\refint\Todo.Domain.dll
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\Todo.Domain.pdb
+C:\Users\Dev\OneDrive\Área de Trabalho\Estudos e comandos\CursoBalta\Todo\Todo.Domain\obj\Debug\net6.0\ref\Todo.Domain.dll
